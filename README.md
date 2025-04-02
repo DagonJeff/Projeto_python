@@ -8,7 +8,7 @@ Este projeto foi desenvolvido em Python para simular de uma forma simples um sis
 
 ## Funcionalidades
 - **Ciar conta**
-- **Realizar Saques, Transferências, Comsultar Saldos e Estratos com regsitro de todas as operações realizadas na conta**: Descreva a segunda funcionalidade do seu projeto.**
+- **Realizar Saques, Transferências, Comsultar Saldos e Estratos com regsitro de todas as operações realizadas na conta**
 
 ## Instalação
 Para rodar este projeto localmente, siga os passos abaixo:
