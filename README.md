@@ -7,8 +7,8 @@ Este projeto foi desenvolvido em Python para simular de uma forma simples um sis
 - **Python**: Linguagem de programação principal utilizada no desenvolvimento do projeto.
 
 ## Funcionalidades
-- **Ciar conta**: Descreva a primeira funcionalidade do seu projeto.
-- **Realizar Saques, Transferências, Comsultar Saldos e Estratos com regsitro de todas as operações realizadas na conta**: Descreva a segunda funcionalidade do seu projeto.
+- **Ciar conta**
+- **Realizar Saques, Transferências, Comsultar Saldos e Estratos com regsitro de todas as operações realizadas na conta**: Descreva a segunda funcionalidade do seu projeto.**
 
 ## Instalação
 Para rodar este projeto localmente, siga os passos abaixo:
